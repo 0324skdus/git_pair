@@ -1,3 +1,4 @@
 hello codestates
 Git is Awesome.
 Git is difficult.
+Git is Easy.
